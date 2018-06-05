@@ -1,5 +1,3 @@
-# core-ui
-
 > Open Source
 
 ## Build Setup
@@ -8,7 +6,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8083
+# serve with hot reload at localhost:8082
 npm run dev
 
 # build for production with minification

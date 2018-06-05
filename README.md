@@ -1,7 +1,3 @@
-# core-ui
-
-> Open Source
-
 ## Build Setup
 
 ``` bash

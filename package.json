@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@deveodk/vue-toastr": "^1.0.4",
-    "axios": "^0.17.1",
+    "axios": "^0.18.0",
     "font-awesome": "^4.7.0",
     "fs": "^0.0.1-security",
     "jquery": "^3.2.1",
